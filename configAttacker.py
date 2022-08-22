@@ -1,0 +1,10 @@
+victimIP='192.168.0.22'
+protocol='TCP'
+destPort=1234
+password='password'
+sport=666
+sportHex=0x29A
+flag=604
+flagHex=0X25C
+knock_port = [1235, 1236, 1237]
+filePort = 8505
